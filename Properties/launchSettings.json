@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ImageLinuxOS": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
